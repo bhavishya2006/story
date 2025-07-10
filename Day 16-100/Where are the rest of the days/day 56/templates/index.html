@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>bhavishya</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+  <link href="https://fonts.googleapis.com/css?family=Merriweather|Montserrat|Sacramento" rel="stylesheet">
+  <link rel="icon" href="{{ url_for('static', filename='favicon.ico') }}">
+</head>
+
+<body>
+  <div class="top-container">
+    <img class="top-cloud" src="{{ url_for('static', filename='images/cloud.png') }}" alt="cloud">
+    <div class="title-text">
+      <h1>I'm bhavishya.</h1>
+      <h2>a <span class="pro">pro</span>grammer.</h2>
+    </div>
+    <img class="bottom-cloud" src="{{ url_for('static', filename='images/cloud.png') }}" alt="cloud">
+    <img class="mountain" src="{{ url_for('static', filename='images/mountain.png') }}" alt="mountain-img">
+  </div>
+
+  <div class="middle-container">
+    <div class="profile">
+      <img src="{{ url_for('static', filename='images/bhavishya.png') }}" alt="bhavishya-profile-img">
+      <h2>Hello.</h2>
+      <p class="intro">I am a sophomore computer science student at Michigan State University.</p>
+    </div>
+    <hr>
+    <div class="skills">
+      <h2>My Skills.</h2>
+      <div class="skill-row">
+        <img class="code-img" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="code-img">
+
+        <h3>Design & Development</h3>
+        <p>I started learning to code when I was 18 years old because I wanted to make my own video games. Over time, I have gained a wealth of experience designing and developing mobile and web applications.</p>
+
+      </div>
+      <div class="skill-row">
+        <img class="chilli-img" src="{{ url_for('static', filename='images/chillies.png') }}" alt="chillies-img">
+
+        <h3>Hot Wings Challenge</h3>
+        <p>But my best skill is actually in eating hot wings. I am the undisputed queen of hot wing challenges. Ghost Peppers and Carolina Reapers are my favourite snacks.</p>
+
+      </div>
+    </div>
+    <hr>
+    <div class="contact-me">
+      <h2>Get In Touch</h2>
+      <h3>If you love hot wings as much as I do.</h3>
+      <p class="contact-message">Love hot wings as much as I do? Let's talk about how awesome they are! We can code while we eat hot wings!</p>
+      <a class="btn" href="mailto:bhavishya.texas@gmail.com">CONTACT ME</a>
+    </div>
+  </div>
+
+  <div class="bottom-container">
+    <a class="footer-link" href="https://www.linkedin.com/in/bhavishya-narravula-8327a3349" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+  </div>
+</body>
+
+</html>

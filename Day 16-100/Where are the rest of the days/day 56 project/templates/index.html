@@ -1,0 +1,42 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <title>Bhavishya | Name Card</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='assets/css/main.css') }}" />
+    <noscript><link rel="stylesheet" href="{{ url_for('static', filename='assets/css/noscript.css') }}" /></noscript>
+  </head>
+  <body class="is-preload">
+
+    <!-- Main -->
+    <div id="main">
+      <header class="major container medium">
+        <h2>I’m <strong>Bhavishya</strong></h2>
+        <p>Computer Science @ Michigan State University<br />
+        Passionate about coding, building, and creating impact.</p>
+
+        <!-- Your Image -->
+        <img src="{{ url_for('static', filename='images/bhavishya.png') }}"
+             alt="Bhavishya"
+             style="width: 200px; border-radius: 50%; margin-top: 1rem;" />
+      </header>
+
+      <footer class="major container medium">
+        <ul class="icons">
+
+          <li><a href="https://www.linkedin.com/in/bhavishya-narravula-8327a3349" class="icon brands fa-linkedin"><span class="label">LinkedIn</span></a></li>
+          <li><a href="mailto:bhavishya.texas@gmail.com" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+        </ul>
+      </footer>
+    </div>
+
+    <!-- Scripts -->
+    <script src="{{ url_for('static', filename='assets/js/jquery.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='assets/js/browser.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='assets/js/breakpoints.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='assets/js/util.js') }}"></script>
+    <script src="{{ url_for('static', filename='assets/js/main.js') }}"></script>
+
+  </body>
+</html>
