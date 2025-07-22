@@ -89,7 +89,6 @@ files:
     learner_created: true
   - name: day 18/image.jpg
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 18/main.py
     visible: true
@@ -219,7 +218,6 @@ files:
     learner_created: true
   - name: day 25/project/blank_states_img.gif
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 26/inclass.py
     visible: true
@@ -241,11 +239,9 @@ files:
     learner_created: true
   - name: day 28/tomato.png
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 29/logo.png
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 29/main.py
     visible: true
@@ -273,7 +269,6 @@ files:
     learner_created: true
   - name: day 30/project/logo.png
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 30/project/main.py
     visible: true
@@ -298,19 +293,15 @@ files:
     learner_created: true
   - name: day 31/images/right.png
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 31/images/wrong.png
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 31/images/card_back.png
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 31/images/card_front.png
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 31/data/words_to_learn.csv
     visible: true
@@ -344,11 +335,9 @@ files:
     learner_created: true
   - name: day 34/images/true.png
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 34/images/false.png
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 34/ui.py
     visible: true
@@ -363,12 +352,6 @@ files:
     visible: true
     learner_created: true
   - name: day 34/quiz_brain.py
-    visible: true
-    learner_created: true
-  - name: day 35/inclass.py
-    visible: true
-    learner_created: true
-  - name: day 36/main.py
     visible: true
     learner_created: true
   - name: day 37/main.py
@@ -392,9 +375,6 @@ files:
   - name: day 39/notification_manager.py
     visible: true
     learner_created: true
-  - name: day 39/env.py
-    visible: true
-    learner_created: true
   - name: day 40/data_manager.py
     visible: true
     learner_created: true
@@ -415,7 +395,6 @@ files:
     learner_created: true
   - name: day 41/2.1 Heading Element/goal.png
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 41/2.1 Heading Element/index.html
     visible: true
@@ -482,7 +461,6 @@ files:
     learner_created: true
   - name: day 56/favicon.ico
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 56/templates/index.html
     visible: true
@@ -492,26 +470,21 @@ files:
     learner_created: true
   - name: day 56/static/images/cloud.png
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 56/static/images/angela.png
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 56/static/images/chillies.png
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 56/static/images/mountain.png
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 56/server.py
     visible: true
     learner_created: true
   - name: day 56/static/images/bhavishya.png
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 56 project/project.py
     visible: true
@@ -545,7 +518,6 @@ files:
     learner_created: true
   - name: day 56 project/static/assets/css/images/overlay.png
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 56 project/static/assets/css/images/pattern-size1.svg
     visible: true
@@ -654,7 +626,6 @@ files:
     learner_created: true
   - name: day 56 project/static/assets/webfonts/fa-solid-900.ttf
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 56 project/static/assets/webfonts/fa-brands-400.eot
     visible: true
@@ -664,15 +635,12 @@ files:
     learner_created: true
   - name: day 56 project/static/assets/webfonts/fa-brands-400.ttf
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 56 project/static/assets/webfonts/fa-solid-900.woff
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 56 project/static/assets/webfonts/fa-brands-400.woff
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 56 project/static/assets/webfonts/fa-regular-400.eot
     visible: true
@@ -682,51 +650,39 @@ files:
     learner_created: true
   - name: day 56 project/static/assets/webfonts/fa-regular-400.ttf
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 56 project/static/assets/webfonts/fa-solid-900.woff2
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 56 project/static/assets/webfonts/fa-brands-400.woff2
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 56 project/static/assets/webfonts/fa-regular-400.woff
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 56 project/static/assets/webfonts/fa-regular-400.woff2
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 56 project/static/images/pic01.jpg
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 56 project/static/images/pic02.jpg
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 56 project/static/images/pic03.jpg
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 56 project/static/images/pic04.jpg
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 56 project/static/images/pic05.jpg
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 56 project/static/images/screen.jpg
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 56 project/static/images/bhavishya.png
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 57/main.py
     visible: true
@@ -757,11 +713,9 @@ files:
     learner_created: true
   - name: day 58/11.0 Bootstrap Intro/goal.png
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 58/11.0 Bootstrap Intro/flower.jpg
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 58/11.0 Bootstrap Intro/index.html
     visible: true
@@ -771,18 +725,15 @@ files:
     learner_created: true
   - name: day 58/11.2 Bootstrap Components/dog.jpg
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 58/11.2 Bootstrap Components/style.css
     visible: true
     learner_created: true
   - name: day 58/11.2 Bootstrap Components/couple.jpg
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 58/11.2 Bootstrap Components/family.jpg
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 58/11.2 Bootstrap Components/index.html
     visible: true
@@ -801,7 +752,6 @@ files:
     learner_created: true
   - name: day 58/11.2 Bootstrap Components/moving-van.jpg
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 58/11.2 Bootstrap Components/website-text.txt
     visible: true
@@ -820,27 +770,21 @@ files:
     learner_created: true
   - name: day 58/11.3 TinDog Project/images/tnw.png
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 58/11.3 TinDog Project/images/iphone.png
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 58/11.3 TinDog Project/images/dog-img.jpg
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 58/11.3 TinDog Project/images/mashable.png
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 58/11.3 TinDog Project/images/bizinsider.png
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 58/11.3 TinDog Project/images/techcrunch.png
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 58/11.3 TinDog Project/README.md
     visible: true
@@ -850,23 +794,18 @@ files:
     learner_created: true
   - name: day 58/11.3 TinDog Project/goal images/title-goal.jpg
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 58/11.3 TinDog Project/goal images/footer-goal.jpg
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 58/11.3 TinDog Project/goal images/pricing-goal.jpg
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 58/11.3 TinDog Project/goal images/features-goal.jpg
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 58/11.3 TinDog Project/goal images/testimonial-goal.jpg
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 58/11.3 TinDog Project/solution.html
     visible: true
@@ -885,27 +824,21 @@ files:
     learner_created: true
   - name: day 59 project/static/assets/img/home-bg.jpg
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 59 project/static/assets/img/post-bg.jpg
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 59 project/static/assets/img/about-bg.jpg
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 59 project/static/assets/img/contact-bg.jpg
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 59 project/static/assets/img/post-sample-image.jpg
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 59 project/static/assets/favicon.ico
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 59 project/templates/post.html
     visible: true
@@ -933,23 +866,18 @@ files:
     learner_created: true
   - name: day 60/static/assets/img/home-bg.jpg
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 60/static/assets/img/post-bg.jpg
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 60/static/assets/img/contact-bg.jpg
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 60/static/assets/img/post-sample-image.jpg
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 60/static/assets/favicon.ico
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 60/templates/post.html
     visible: true
@@ -959,7 +887,6 @@ files:
     learner_created: true
   - name: day 60/static/assets/img/about-bg.jpg
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 60/templates/about.html
     visible: true
@@ -1098,27 +1025,21 @@ files:
     learner_created: true
   - name: day 67/static/assets/img/edit-bg.jpg
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 67/static/assets/img/home-bg.jpg
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 67/static/assets/img/post-bg.jpg
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 67/static/assets/img/about-bg.jpg
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 67/static/assets/img/contact-bg.jpg
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 67/static/assets/favicon.ico
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 67/templates/post.html
     visible: true
@@ -1155,7 +1076,6 @@ files:
     learner_created: true
   - name: day 68/static/files/cheat_sheet.pdf
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 68/templates/base.html
     visible: true
@@ -1192,43 +1112,33 @@ files:
     learner_created: true
   - name: day 69/static/assets/img/edit-bg.jpg
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 69/static/assets/img/home-bg.jpg
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 69/static/assets/img/post-bg.jpg
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 69/static/assets/img/about-bg.jpg
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 69/static/assets/img/login-bg.jpg
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 69/static/assets/img/contact-bg.jpg
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 69/static/assets/img/register-bg.jpg
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 69/static/assets/img/angela-profile.jpg
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 69/static/assets/img/default-profile.jpg
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 69/static/assets/favicon.ico
     visible: true
-    is_binary: true
     learner_created: true
   - name: day 69/templates/post.html
     visible: true
@@ -1447,6 +1357,169 @@ files:
     visible: true
     learner_created: true
   - name: day 70/story/first_story.txt
+    visible: true
+    learner_created: true
+  - name: day 71/forms.py
+    visible: true
+    learner_created: true
+  - name: day 71/main.py
+    visible: true
+    learner_created: true
+  - name: day 71/requirements.txt
+    visible: true
+    learner_created: true
+  - name: day 71/instance/posts.db
+    visible: true
+    learner_created: true
+  - name: day 71/static/js/scripts.js
+    visible: true
+    learner_created: true
+  - name: day 71/static/css/styles.css
+    visible: true
+    learner_created: true
+  - name: day 71/static/assets/img/edit-bg.jpg
+    visible: true
+    learner_created: true
+  - name: day 71/static/assets/img/home-bg.jpg
+    visible: true
+    learner_created: true
+  - name: day 71/static/assets/img/post-bg.jpg
+    visible: true
+    learner_created: true
+  - name: day 71/static/assets/img/about-bg.jpg
+    visible: true
+    learner_created: true
+  - name: day 71/static/assets/img/login-bg.jpg
+    visible: true
+    learner_created: true
+  - name: day 71/static/assets/img/contact-bg.jpg
+    visible: true
+    learner_created: true
+  - name: day 71/static/assets/img/register-bg.jpg
+    visible: true
+    learner_created: true
+  - name: day 71/static/assets/img/angela-profile.jpg
+    visible: true
+    learner_created: true
+  - name: day 71/static/assets/img/default-profile.jpg
+    visible: true
+    learner_created: true
+  - name: day 71/static/assets/favicon.ico
+    visible: true
+    learner_created: true
+  - name: day 71/templates/post.html
+    visible: true
+    learner_created: true
+  - name: day 71/templates/about.html
+    visible: true
+    learner_created: true
+  - name: day 71/templates/index.html
+    visible: true
+    learner_created: true
+  - name: day 71/templates/login.html
+    visible: true
+    learner_created: true
+  - name: day 71/templates/footer.html
+    visible: true
+    learner_created: true
+  - name: day 71/templates/header.html
+    visible: true
+    learner_created: true
+  - name: day 71/templates/contact.html
+    visible: true
+    learner_created: true
+  - name: day 71/templates/register.html
+    visible: true
+    learner_created: true
+  - name: day 71/templates/make-post.html
+    visible: true
+    learner_created: true
+  - name: day 71/Procfile
+    visible: true
+    learner_created: true
+  - name: day 74/LEGO Notebook and Data (start)/data/sets.csv
+    visible: true
+    learner_created: true
+  - name: day 74/LEGO Notebook and Data (start)/data/colors.csv
+    visible: true
+    learner_created: true
+  - name: day 74/LEGO Notebook and Data (start)/data/themes.csv
+    visible: true
+    learner_created: true
+  - name: day 74/LEGO Notebook and Data (start)/assets/bricks.jpg
+    visible: true
+    learner_created: true
+  - name: day 74/LEGO Notebook and Data (start)/assets/lego_sets.png
+    visible: true
+    learner_created: true
+  - name: day 74/LEGO Notebook and Data (start)/assets/lego_themes.png
+    visible: true
+    learner_created: true
+  - name: day 74/LEGO Notebook and Data (start)/assets/rebrickable_schema.png
+    visible: true
+    learner_created: true
+  - name: day 74/LEGO Notebook and Data (start)/Lego_Analysis_for_Course_(start).ipynb
+    visible: true
+    learner_created: true
+  - name: day 82/project.py
+    visible: true
+    learner_created: true
+  - name: day 83/main.py
+    visible: true
+    learner_created: true
+  - name: day 83/templates/base.html
+    visible: true
+    learner_created: true
+  - name: day 83/templates/index.html
+    visible: true
+    learner_created: true
+  - name: day 83/templates/about.html
+    visible: true
+    learner_created: true
+  - name: day 83/templates/skills.html
+    visible: true
+    learner_created: true
+  - name: day 83/templates/projects.html
+    visible: true
+    learner_created: true
+  - name: day 83/templates/contact.html
+    visible: true
+    learner_created: true
+  - name: day 83/static/style.css
+    visible: true
+    learner_created: true
+  - name: day 83/requirements.txt
+    visible: true
+    learner_created: true
+  - name: portfolio/app.py
+    visible: true
+    learner_created: true
+  - name: portfolio/static/style.css
+    visible: true
+    learner_created: true
+  - name: portfolio/static/profile.png
+    visible: true
+    is_binary: true
+    learner_created: true
+  - name: portfolio/templates/base.html
+    visible: true
+    learner_created: true
+  - name: portfolio/templates/about.html
+    visible: true
+    learner_created: true
+  - name: portfolio/templates/index.html
+    visible: true
+    learner_created: true
+  - name: portfolio/templates/skills.html
+    visible: true
+    learner_created: true
+  - name: portfolio/templates/contact.html
+    visible: true
+    learner_created: true
+  - name: portfolio/templates/projects.html
+    visible: true
+    learner_created: true
+  - name: portfolio/requirements.txt
     visible: true
     learner_created: true
 status: Solved
